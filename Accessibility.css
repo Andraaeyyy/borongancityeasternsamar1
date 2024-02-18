@@ -1,0 +1,92 @@
+body {
+    background-image: url('90.jpg ');
+      background-size: cover;
+      background-position: center;
+      color: #000000;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    line-height: 1.6;
+  }
+  
+  .back-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .back-button:hover {
+    background-color: #45a049;
+  }
+    
+    header {
+      background-color: #333;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      padding: 1rem;
+      text-align: center;
+    }
+    
+    header h1 {
+      margin: 0;
+    
+    }
+    
+    nav {
+      display: flex;
+      align-items: center;
+    }
+    
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+    nav li {
+      margin-right: 1rem;
+    }
+    
+    nav a {
+      color: #fff;
+      text-decoration: none;
+    }
+    
+    main {
+      padding: 1rem;
+    }
+    
+    section {
+      margin-bottom: 2rem;
+    }
+    
+    section h2 {
+      margin-top: 0;
+    }
+    
+    button {
+      background-color: #333;
+      border: none;
+      color: #fff;
+      padding: 0.5rem 1rem;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+    
+    button:hover {
+      background-color: #444;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 1rem;
+    }
